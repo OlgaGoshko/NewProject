@@ -1,0 +1,14 @@
+.slider__slide {
+   display: flex;
+   justify-content: center;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+   color: black;
+}
+
+.swiper {
+   padding: 40px 80px;
+}
+
